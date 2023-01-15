@@ -475,6 +475,10 @@ sponsors section styles
         width: 95%;
     }
 
+    .title-banner {
+        font-size: 54px;
+    }
+
     .description-banner {
         width: 100%;
     }
@@ -492,6 +496,7 @@ sponsors section styles
 
     .img-quick-list {
         width: 100%;
+        
     }
 
     .container-features-section {
@@ -508,12 +513,15 @@ sponsors section styles
     .img-features {
         padding: 0;
         width: 100%;
+        object-fit: cover;
     }
 
     .btn-experience {
         position: relative;
         margin-top: 20px;
         left: 0;
+        padding: 32px 30px;
+        
     }
 
     .description-facts {
