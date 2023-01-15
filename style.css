@@ -485,6 +485,7 @@ sponsors section styles
     .img-container-features {
         display: flex;
         flex-direction: column;
+        row-gap:10px;
     }
     
     .img-features {
