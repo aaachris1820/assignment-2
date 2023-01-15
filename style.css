@@ -482,11 +482,16 @@ sponsors section styles
     .container-quick-list {
         width: 90%;
         row-gap: 50px;
+        flex-direction: column;
     }
 
     .img-container-quick-list {
         grid-template-columns: repeat(1,1fr);
         justify-items: center;
+    }
+
+    .img-quick-list {
+        width: 100%;
     }
 
     .container-features-section {
@@ -502,7 +507,7 @@ sponsors section styles
     
     .img-features {
         padding: 0;
-        max-width: 100%;
+        width: 100%;
     }
 
     .btn-experience {
