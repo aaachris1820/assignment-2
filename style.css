@@ -216,6 +216,7 @@ features section styles
 }
 
 .img-features {
+    max-width: 100%;
     padding-left: 92px;
     padding-bottom: 77px;
     z-index: 0;
