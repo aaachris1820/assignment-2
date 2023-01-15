@@ -479,7 +479,7 @@ sponsors section styles
 
     .container-features-section {
         flex-direction: column;
-        width: 90%;
+        width: 80%;
     }
 
     .img-container-features {
@@ -512,10 +512,14 @@ sponsors section styles
     }
 
     .contact-us {
-        width: 90%;
+        width: 85%;
     }
     .container-button {
         flex-direction: column;
         row-gap: 10px;
+    }
+
+    footer {
+        width: 85%;
     }
  }
